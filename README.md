@@ -1,4 +1,4 @@
-# **Call Centre Trends**
+# **Call Center Trends**
 
 The dashboard provides a comprehensive view of call center metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call center operations.
 
